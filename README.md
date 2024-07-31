@@ -9,5 +9,5 @@ image = '00-00000-00'
 STR(scene-text-recognition) generates distance information(meter in metric unit) in file.txt.
 
 Please unzip trained files:
-sewer_location_str/CRAFT-pytorch/craft_mlt_25k.pth
+sewer_location_str/CRAFT-pytorch/craft_mlt_25k.pth,
 sewer_location_str/saved_models/models/train/train_save_part.pth
