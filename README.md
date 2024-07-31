@@ -7,3 +7,7 @@ image = '00-00000-00'
 2nd cell of str_meter.ipynb selects location of distance information(m) in image frame.
 
 STR(scene-text-recognition) generates distance information(m) in file.txt.
+
+Please unzip trained files below:
+sewer_location_str/CRAFT-pytorch/craft_mlt_25k.pth
+sewer_location_str/saved_models/models/train/train_save_part.pth
