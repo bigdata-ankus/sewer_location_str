@@ -1,6 +1,6 @@
 "str_meter.ipynb" detects distance information at captured image frames of sewerage clips from Seoul Metropolitan Government, South Korea.
 
-Users need to type inputs: execution path(default path) and captured image frame of the sewerage clips(image file path).
+Users need to type inputs: execution path(default path) and image file path of captured image frames.
 path = 'A:/AA/AAA/', 
 image = '00-00000-00'
 
